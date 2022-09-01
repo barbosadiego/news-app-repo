@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknews_app"]=self["webpackChunknews_app"]||[]).push([[942],{3362:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var s=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,n=e._self._c;return n("div",{staticClass:"not-found"},[n("p",[e._v(" The page you are looking for have been moved, deleted, "),n("br"),e._v(" or possibly never existed. ")]),n("h1",[e._v("404")])])}],u={name:"PageNotFound"},o=u,a=t(1001),l=(0,a.Z)(o,s,r,!1,null,"2168d8b2",null),i=l.exports}}]);
+//# sourceMappingURL=not-found.6aa9e46f.js.map
